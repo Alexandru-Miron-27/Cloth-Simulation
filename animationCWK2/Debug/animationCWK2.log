@@ -1,0 +1,6 @@
+﻿  ClothSimulator.cpp
+D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\animationCWK2\Particle.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\animationCWK2\ClothSimulator.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\animationCWK2\ClothSimulator.cpp(29,24): warning C4018: '<': signed/unsigned mismatch
+  ClothSimulator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  animationCWK2.vcxproj -> D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\Debug\animationCWK2.exe

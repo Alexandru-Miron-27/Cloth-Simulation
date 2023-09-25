@@ -1,0 +1,3 @@
+D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\animationCWK2\Debug\animationCWK2.vcxproj.AssemblyReference.cache
+D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\animationCWK2\Debug\animationCWK2.MyForm.resources
+D:\_Year4\COMP5823M Animation and Simulation\cwk2\animationCWK2\animationCWK2\Debug\animationCWK2.vcxproj.GenerateResource.cache
